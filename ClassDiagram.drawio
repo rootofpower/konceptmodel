@@ -150,7 +150,7 @@
         <mxCell id="dIsuYwhOg-opJpDyOtCo-40" value="+dropToken(column: int, player: Player): boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="xjymHoD2W1zTFz9Qo7-k-29" vertex="1">
           <mxGeometry y="164" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="dIsuYwhOg-opJpDyOtCo-41" value="+ checkWin(player: Player): boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="xjymHoD2W1zTFz9Qo7-k-29" vertex="1">
+        <mxCell id="dIsuYwhOg-opJpDyOtCo-41" value="+ checkEnd(player: Player): boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="xjymHoD2W1zTFz9Qo7-k-29" vertex="1">
           <mxGeometry y="190" width="270" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dIsuYwhOg-opJpDyOtCo-42" value="+ isFull(): boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="xjymHoD2W1zTFz9Qo7-k-29" vertex="1">
